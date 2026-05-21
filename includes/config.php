@@ -4,9 +4,9 @@
 // ================================================
 
 define('DB_HOST', 'localhost');
-define('DB_USER', 'root');
-define('DB_PASS', '');
-define('DB_NAME', 'converse_store');
+define('DB_USER', 'ojokerro_converse');
+define('DB_PASS', 'Converse123@');
+define('DB_NAME', 'ojokerro_conversedb');
 define('SITE_URL', 'http://localhost/converse');
 define('UPLOADS_PATH', __DIR__ . '/../uploads/products/');
 define('UPLOADS_URL', SITE_URL . '/uploads/products/');
